@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Зарипов Айрат Фаритович!
 
-<!--
-**luckyhunterzzz/luckyhunterzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Java-разработчик с опытом работы и большим интересом к новым технологиям.
 
-Here are some ideas to get you started:
+## 🔧 Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
+- Git
+
+## 🌱 В настоящее время изучаю
+
+- Архитектура микросервисов
+- Разработка RESTful API
+
+## 📫 Связаться со мной
+
+- [Telegram](https://t.me/luckyhunterzzz)
+- [GitHub](https://github.com/luckyhunterzzz)

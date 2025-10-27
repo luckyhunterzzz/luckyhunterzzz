@@ -1,6 +1,6 @@
 # 👋 Привет, я Айрат Зарипов! | Hi, I'm Airat Zaripov!
 
-[🇷🇺 Русская версия](#-о-бо-мне) | [🇬🇧 English version](#-about-me)
+[<img src="https://flagcdn.com/w40/ru.png" width="20" alt="RU"> Русская версия](#-о-бо-мне) | [<img src="https://flagcdn.com/w40/gb.png" width="20" alt="GB"> English version](#-about-me)
 
 ---
 
